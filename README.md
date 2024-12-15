@@ -1,1 +1,2 @@
-# quiz-product
+Quiz Product
+Vite + React
