@@ -1,0 +1,33 @@
+.quiz {
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  width: min(500px, 100%);
+  overflow: hidden;
+}
+
+.quiz-content {
+  padding: 2rem;
+}
+
+.question {
+  text-align: center;
+  text-wrap: balance;
+}
+
+
+
+.ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.btn {
+  border: none;
+  background-color: lightgrey;
+  padding-block: 0.5rem;
+  width: 100%;
+  border-radius: 0.25rem;
+}
